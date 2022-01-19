@@ -1,0 +1,13 @@
+*{
+     margin : 0;
+     padding : 0;
+     box-sizing: border-box;
+     border : none;
+     outline: none;
+     box-shadow: none;
+     direction : rtl;
+     font-family: 'IranSans';
+}
+input{
+     border: 1px solid rgba(0, 0, 0, 0.07);
+}
